@@ -1,0 +1,1 @@
+# tuya_light_single
